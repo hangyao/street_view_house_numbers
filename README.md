@@ -18,7 +18,6 @@ You will also need to have software installed to run and execute an [iPython Not
 
 Template code is provided in the following notebook files:
 - `1_preprocess.py`
--
 
 ## Run
 
