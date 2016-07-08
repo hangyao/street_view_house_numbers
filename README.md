@@ -1,5 +1,8 @@
 # Street View House Numbers
-- 1_preprocess.py: Preprocess SVHN data (see below) and train a simple logistic regression model on it.
+- 1_preprocess_single.ipynb: preprocess cropped single-digit SVHN data.
+- 2_CNN_single.ipynb: build a convolutional neural network for cropped single-digit SVHN images.
+- 3_preprocess_multi.ipynb: preprocess original multi-digit SVHN data.
+- 4_CNN_multi.ipynb: build a convolutional neural network for original multi-digit SVHN images.
 
 ## Install
 
@@ -17,7 +20,10 @@ You will also need to have software installed to run and execute an [iPython Not
 ## Code
 
 Template code is provided in the following notebook files:
-- `1_preprocess.py`
+- `1_preprocess_single.ipynb`
+- `2_CNN_single.ipynb`
+- `3_preprocess_multi.ipynb`
+- `4_CNN_multi.ipynb`
 
 ## Run
 
