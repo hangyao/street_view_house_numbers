@@ -29,8 +29,8 @@ Template code is provided in the following notebook files:
 
 In a terminal or command window, navigate to the top-level project directory `street_view_house_numbers/` (that contains this README) and run one of the following commands:
 
-```python 1_preprocess.ipynb```  
-```jupyter notebook 1_preprocess.ipynb```
+```python 1_preprocess_single.ipynb```  
+```jupyter notebook 1_preprocess_single.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
 
