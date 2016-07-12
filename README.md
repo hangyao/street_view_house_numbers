@@ -19,7 +19,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 ## Code
 
-Template code is provided in the following notebook files:
+Project codes are provided in the following notebook files:
 - `1_preprocess_single.ipynb`
 - `2_CNN_single.ipynb`
 - `3_preprocess_multi.ipynb`
