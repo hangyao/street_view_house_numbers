@@ -31,6 +31,8 @@ In a terminal or command window, navigate to the top-level project directory `st
 
 ```python 1_preprocess_single.ipynb```  
 ```jupyter notebook 1_preprocess_single.ipynb```
+```python 2_CNN_single.ipynb```  
+```jupyter notebook 2_CNN_single.ipynb```
 
 This will open the iPython Notebook software and project file in your browser.
 
