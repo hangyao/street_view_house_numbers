@@ -5,9 +5,15 @@
 - 3_preprocess_multi.ipynb: preprocess original multi-digit SVHN data.
 - 4_CNN_multi.ipynb: build a convolutional neural network for original multi-digit SVHN images.
 
-### Reference
+### References
 
-- Ian J. Goodfellow, Yaroslav Bulatov, Julian Ibarz, Sacha Arnoud, and Vinay Shet (2013). Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks. [arXiv:1312.6082](https://arxiv.org/abs/1312.6082) [cs.CV]
+1. Ian J. Goodfellow, Yaroslav Bulatov, Julian Ibarz, Sacha Arnoud, and Vinay Shet (2013). Multi-digit Number Recognition from Street View Imagery using Deep Convolutional Neural Networks. [arXiv:1312.6082](https://arxiv.org/abs/1312.6082) [cs.CV]
+
+2. Pierre Sermanet, Soumith Chintala, and Yann LeCun (2012). Convolutional Neural Networks Applied to House Numbers Digit Classification. [arXiv:1204.3968](https://arxiv.org/abs/1204.3968) [cs.CV]
+
+3. Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, and Andrew Y. Ng (2011). Reading Digits in Natural Images with Unsupervised Feature Learning. *NIPS Workshop on Deep Learning and Unsupervised Feature Learning 2011*. ([Page](http://ufldl.stanford.edu/housenumbers/)|[PDF](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf))
+
+4. Mark Grundland, and Neil A. Dodgson (2007). Decolorize: Fast, contrast enhancing, color to grayscale conversion. *Pattern Recognition*, **40** (11). [Page](http://dx.doi.org/10.1016/j.patcog.2006.11.003)
 
 ## Install
 
