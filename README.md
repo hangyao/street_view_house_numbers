@@ -1,9 +1,9 @@
 # Street View House Numbers
 
-- 1_preprocess_single.ipynb: preprocess cropped single-digit SVHN data.
-- 2_CNN_single.ipynb: build a convolutional neural network for cropped single-digit SVHN images.
-- 3_preprocess_multi.ipynb: preprocess original multi-digit SVHN data.
-- 4_CNN_multi.ipynb: build a convolutional neural network for original multi-digit SVHN images.
+- `1_preprocess_single.ipynb`: preprocess cropped single-digit SVHN data.
+- `2_CNN_single.ipynb`: build a convolutional neural network for cropped single-digit SVHN images.
+- `3_preprocess_multi.ipynb`: preprocess original multi-digit SVHN data.
+- `4_CNN_multi.ipynb`: build a convolutional neural network for original multi-digit SVHN images.
 
 ### References
 
